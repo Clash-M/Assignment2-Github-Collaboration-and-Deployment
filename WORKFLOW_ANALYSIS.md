@@ -12,7 +12,7 @@ actions/checkout@v4 Downloads the code from the repository for a "runner", which
 
 ## Purpose of enviornment configuration
 
-To set the URL of the page, and allows the code to run smoothly across different setups. 
+To set the URL of the page and configure GitHub Pages, and allows the code to run smoothly across different setups. 
 
 ## How Automated deployment improves reliability
 
