@@ -1,5 +1,5 @@
 ## What Triggers Workflow to run?
-In the .yml file push requests causes the workflow to run
+In the .yml file pushes and pull requests to the main branch causes the workflow to run
 
 ## Four Main Steps Workflow performs
 1. Getting code from the repository
